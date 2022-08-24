@@ -1,0 +1,140 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch AzureSasCredentialSample",
+            "request": "launch",
+            "mainClass": "samples.com.microsoft.azure.sdk.iot.AzureSasCredentialSample",
+            "projectName": "azure-sas-credential-sample"
+        },
+        {
+            "type": "java",
+            "name": "Launch ConfigurationManangerSample",
+            "request": "launch",
+            "mainClass": "samples.com.microsoft.azure.sdk.iot.ConfigurationManangerSample",
+            "projectName": "device-manager-sample"
+        },
+        {
+            "type": "java",
+            "name": "Launch DeviceManagerExportSample",
+            "request": "launch",
+            "mainClass": "samples.com.microsoft.azure.sdk.iot.DeviceManagerExportSample",
+            "projectName": "device-manager-sample"
+        },
+        {
+            "type": "java",
+            "name": "Launch DeviceManagerImportExportWithIdentitySample",
+            "request": "launch",
+            "mainClass": "samples.com.microsoft.azure.sdk.iot.DeviceManagerImportExportWithIdentitySample",
+            "projectName": "device-manager-sample"
+        },
+        {
+            "type": "java",
+            "name": "Launch DeviceManagerImportSample",
+            "request": "launch",
+            "mainClass": "samples.com.microsoft.azure.sdk.iot.DeviceManagerImportSample",
+            "projectName": "device-manager-sample"
+        },
+        {
+            "type": "java",
+            "name": "Launch DeviceManagerSample",
+            "request": "launch",
+            "mainClass": "samples.com.microsoft.azure.sdk.iot.DeviceManagerSample",
+            "projectName": "device-manager-sample"
+        },
+        {
+            "type": "java",
+            "name": "Launch DeviceManagerX509Sample",
+            "request": "launch",
+            "mainClass": "samples.com.microsoft.azure.sdk.iot.DeviceManagerX509Sample",
+            "projectName": "device-manager-sample"
+        },
+        {
+            "type": "java",
+            "name": "Launch ModuleManagerSample",
+            "request": "launch",
+            "mainClass": "samples.com.microsoft.azure.sdk.iot.ModuleManagerSample",
+            "projectName": "device-manager-sample"
+        },
+        {
+            "type": "java",
+            "name": "Launch DeviceTwinSample",
+            "request": "launch",
+            "mainClass": "samples.com.microsoft.azure.sdk.iot.DeviceTwinSample",
+            "projectName": "device-twin-sample"
+        },
+        {
+            "type": "java",
+            "name": "Launch DirectMethodSample",
+            "request": "launch",
+            "mainClass": "samples.com.microsoft.azure.sdk.iot.service.sdk.DirectMethodSample",
+            "projectName": "direct-method-sample"
+        },
+        {
+            "type": "java",
+            "name": "Launch FileUploadNotificationProcessorClientSample",
+            "request": "launch",
+            "mainClass": "samples.com.microsoft.azure.sdk.iot.FileUploadNotificationProcessorClientSample",
+            "projectName": "file-upload-notification-processor-client-sample"
+        },
+        {
+            "type": "java",
+            "name": "Launch JobClientSample",
+            "request": "launch",
+            "mainClass": "samples.com.microsoft.azure.sdk.iot.JobClientSample",
+            "projectName": "job-client-sample"
+        },
+        {
+            "type": "java",
+            "name": "Launch MessageFeedbackProcessorClientSample",
+            "request": "launch",
+            "mainClass": "samples.com.microsoft.azure.sdk.iot.MessageFeedbackProcessorClientSample",
+            "projectName": "message-feedback-processor-client-sample"
+        },
+        {
+            "type": "java",
+            "name": "Launch MessagingClientPerformanceSample",
+            "request": "launch",
+            "mainClass": "samples.com.microsoft.azure.sdk.iot.MessagingClientPerformanceSample",
+            "projectName": "messaging-client-performance-sample"
+        },
+        {
+            "type": "java",
+            "name": "Launch MessagingClientSample",
+            "request": "launch",
+            "mainClass": "samples.com.microsoft.azure.sdk.iot.MessagingClientSample",
+            "projectName": "messaging-client-sample"
+        },
+        {
+            "type": "java",
+            "name": "Launch RoleBasedAuthenticationSample",
+            "request": "launch",
+            "mainClass": "samples.com.microsoft.azure.sdk.iot.RoleBasedAuthenticationSample",
+            "projectName": "role-based-authorization-sample"
+        },
+        {
+            "type": "java",
+            "name": "Launch TemperatureController",
+            "request": "launch",
+            "mainClass": "samples.com.microsoft.azure.sdk.iot.service.TemperatureController",
+            "projectName": "temperature-controller-service-sample"
+        },
+        {
+            "type": "java",
+            "name": "Launch Thermostat",
+            "request": "launch",
+            "mainClass": "samples.com.microsoft.azure.sdk.iot.service.Thermostat",
+            "projectName": "thermostat-service-sample"
+        }
+    ]
+}

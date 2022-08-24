@@ -1,0 +1,3 @@
+[submodule "azure-iot-sdk-java"]
+	path = azure-iot-sdk-java
+	url = https://github.com/alanblythe/azure-iot-sdk-java.git

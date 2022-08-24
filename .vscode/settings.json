@@ -1,0 +1,9 @@
+{
+    "java.test.config": {
+        "name": "baseConfig",
+        "env": {
+            "ANDROID_SDK_ROOT": "ANDROID_SDK_ROOT=/opt/android-studio/"
+        }
+    },
+    "java.configuration.updateBuildConfiguration": "interactive"
+}
